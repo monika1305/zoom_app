@@ -1,0 +1,11 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-3.2.0/
+cloud_firestore_web=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.6.18/
+firebase_auth=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.4.0/
+firebase_auth_web=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.18/
+firebase_core=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.19.0/
+firebase_core_web=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.5/
+google_sign_in=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.3.3/
+google_sign_in_android=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-5.2.8/
+google_sign_in_ios=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/google_sign_in_ios-5.3.1/
+google_sign_in_web=/Users/monikasharma/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.1+3/
